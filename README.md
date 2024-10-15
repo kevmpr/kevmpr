@@ -10,9 +10,9 @@ Constantly studying to train as a Web Developer and Software Developer. I am pas
 - 🌱 I’m currently learning ...
   - Java
   - TypeScript
-- 👯 I'm looking forward to have my first job.
-- ✔ Ask me about anything, I am happy to help<br>
+- 🌍 I'm looking forward to have my first job.
 - 🧡 I love watching anime, 🏋🏽‍♂️ training, 🎮 playing videogames, 🎵 listening to music, and 📖 reading mangas and books.
+- 💡 Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="mailto:kev.mpr03@gmail.com">kev.mpr03@gmail.com</a>
 
 ## My Skills Include
