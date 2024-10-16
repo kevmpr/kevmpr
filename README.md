@@ -59,6 +59,6 @@ Constantly studying to train as a Web Developer and Software Developer. I am pas
 
 ## Check out my Social Media
 
-<a href= "https://www.linkedin.com/in/kevin-maximiliano-palma-romero/">
+<a href= "https://www.linkedin.com/in/kevin-m-palma-r/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linux&logoColor=white">
 </a>
