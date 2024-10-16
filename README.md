@@ -54,7 +54,9 @@ Constantly studying to train as a Web Developer and Software Developer. I am pas
 <h4> Languages </h3>
 <span>
   <img src="https://img.shields.io/badge/Spanish (Native)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
-  <img src="https://img.shields.io/badge/English (Intermediate)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
+  <a href="https://cert.efset.org/en/Sd4LCm">
+    <img src="https://img.shields.io/badge/English (Intermediate)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
+  </a>  
 </span>
 
 ## Check out my Social Media
