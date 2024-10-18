@@ -51,10 +51,10 @@ Constantly studying to train as a Web Developer and Software Developer. I am pas
   <a href="https://github.com">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="www.notion.so">
+  <a href="https://www.notion.so">
     <img src="https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white">
   </a>
-  <a href="https://www.atlassian.com/software/jira?campaign=18442480203&adgroup=140479881486&targetid=aud-1927178452745:kwd-855725830&matchtype=e&network=g&device=c&device_model=&creative=697046809145&keyword=jira&placement=&target=&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAjwjsi4BhB5EiwAFAL0YARCDGSvIso1TWJOa4W7As1H_D98KppbrsMOc1Y9ySDUzeS1EtiZTBoC2LwQAvD_BwE">
+  <a href="https://www.atlassian.com/es/software/jira?campaign=19324540226&adgroup=143040524765&targetid=kwd-855725830&matchtype=e&network=g&device=c&device_model=&creative=642190148807&keyword=jira&placement=&target=&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=EAIaIQobChMIgKHz67qYiQMVIwqtBh0jPRhiEAAYASAAEgIqpPD_BwE">
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
   </a>
   <a href="https://trello.com/es">
