@@ -10,6 +10,7 @@ Constantly studying to train as a Web Developer and Software Developer. I am pas
 - 🌱 I’m currently learning ...
   - Java
   - Spring
+  - React
 - 🌍 I'm looking forward to have my first job.
 - 🧡 I love watching anime, 🏋🏽‍♂️ training, 🎮 playing videogames, 🎵 listening to music and 📖 reading mangas & books.
 - 💡 Ask me about anything, I am happy to help<br>
