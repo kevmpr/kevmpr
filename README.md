@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Kevin Maximiliano Palma Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center"><b>2nd year Student for Software Development</b></h2>
+<h2 align="center"><b>Software Development Student | Back End Developer | Front End Developer</b></h2>
 <!--  -->
 <img align="right" width=300px alt="Luffy Gear 5" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
 
@@ -8,7 +8,6 @@
 Constantly studying to train as a Web Developer and Software Developer. I am passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.
 
 - 🌱 I’m currently learning ...
-  - Java
   - Spring
   - React
 - 🌍 I'm looking forward to have my first job.
@@ -25,7 +24,9 @@ Constantly studying to train as a Web Developer and Software Developer. I am pas
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-A178DB?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
@@ -58,7 +59,7 @@ Constantly studying to train as a Web Developer and Software Developer. I am pas
   <img src="https://img.shields.io/badge/Spanish (Native)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
   
   <a href="https://cert.efset.org/en/Sd4LCm">
-    <img src="https://img.shields.io/badge/English (Upper Intermediate)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
+    <img src="https://img.shields.io/badge/English (Upper Intermediate B2)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
   </a>  
 </span>
 
