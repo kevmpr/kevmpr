@@ -5,7 +5,7 @@
 
 <img src="https://media.tenor.com/z5_M1QreKEcAAAAi/gon-gon-laughing.gif" width="30px" alt="Gon laughing">&nbsp;***About me***
 
-Constantly studying to train as a Web Developer and Software Developer. I am passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.
+Constantly studying to train as a Software Developer, Back End Developer and Front End Developer. I am passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.
 
 - 🌱 I’m currently learning ...
   - Spring
