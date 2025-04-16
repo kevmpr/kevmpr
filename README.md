@@ -8,12 +8,13 @@
 Constantly studying to train as a Software Developer, Back End Developer and Front End Developer. I am passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.
 
 - 🌱 I’m currently learning ...
-  - Spring
-  - React
+  - NodeJS
+  - Angular
 - 🌍 I'm looking forward to have my first job.
 - 🧡 I love watching anime, 🏋🏽‍♂️ training, 🎮 playing videogames, 🎵 listening to music and 📖 reading mangas & books.
 - 💡 Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="mailto:kev.mpr03@gmail.com">kev.mpr03@gmail.com</a>
+- 💻 Check out my portfolio: <a href="https://kevmpr.github.io/portfolio">Portfolio</a>
 
 ## My Skills Include
 
@@ -22,7 +23,8 @@ Constantly studying to train as a Software Developer, Back End Developer and Fro
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/JavaScript-C2A633?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-A178DB?style=for-the-badge&logo=C&logoColor=white">
