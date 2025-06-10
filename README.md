@@ -1,16 +1,17 @@
 <h1 align="center"><b>Hi , I'm Kevin Maximiliano Palma Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center"><b>Advanced Software Development Student | Back End Developer | Front End Developer</b></h2>
+<h2 align="center"><b>Cloud Engineer Trainee | Advanced Software Development Student | Full Stack Developer</b></h2>
 <!--  -->
 <img align="right" width=300px alt="Luffy Gear 5" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
 
 <img src="https://media.tenor.com/z5_M1QreKEcAAAAi/gon-gon-laughing.gif" width="30px" alt="Gon laughing">&nbsp;***About me***
 
-Constantly studying to train as a Software Developer, Back End Developer and Front End Developer. I am passionate about problem solving, teamwork, good practices and the experience obtained in each challenge.
+I'm currently studying to become a well-rounded Software Developer, with a focus on Back-End and Cloud Engineering, while also gaining experience in Front-End technologies. I'm passionate about solving problems, collaborating in teams, following best practices, and learning from every challenge I face.
 
 - 🌱 I’m currently learning ...
   - NodeJS
   - Angular
-- 🌍 I'm looking forward to have my first job.
+  - Azure
+- 🌍 I'm currently working as a Cloud Engineer Trainee.
 - 🧡 I love watching anime, 🏋🏽‍♂️ training, 🎮 playing videogames, 🎵 listening to music and 📖 reading mangas & books.
 - 💡 Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="mailto:kev.mpr03@gmail.com">kev.mpr03@gmail.com</a>
@@ -20,16 +21,15 @@ Constantly studying to train as a Software Developer, Back End Developer and Fro
 
 <h4> Hard Skills </h4>
 <span> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-C2A633?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Angular-D81939?style=for-the-badge&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-A178DB?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Azure-3693F3?style=for-the-badge&logo=icloud&logoColor=white">
 </span>
 
 
