@@ -1,21 +1,26 @@
 <h1 align="center"><b>Hi , I'm Kevin Maximiliano Palma Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center"><b>Cloud Engineer Trainee | Advanced Software Development Student | Full Stack Developer</b></h2>
+<h2 align="center"><b>☁️ Cloud Azure Platform | Advanced Software Development Student</b></h2>
 <!--  -->
 <img align="right" width=300px alt="Luffy Gear 5" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
 
 <img src="https://media.tenor.com/z5_M1QreKEcAAAAi/gon-gon-laughing.gif" width="30px" alt="Gon laughing">&nbsp;***About me***
 
-I'm currently studying to become a well-rounded Software Developer, with a focus on Back-End and Cloud Engineering, while also gaining experience in Front-End technologies. I'm passionate about solving problems, collaborating in teams, following best practices, and learning from every challenge I face.
+I'm currently developing my career in the Cloud field as a Cloud Azure Platform, while also studying to become an Advanced Software Developer. My main focus is on Cloud Engineering and the design, deployment, and administration of cloud solutions—supported by a growing foundation in both Back-End and Front-End development.<br>
+I'm passionate about solving problems, collaborating effectively in teams, applying best practices, and learning from every challenge that pushes me to grow.
 
 - 🌱 I’m currently learning ...
-  - NodeJS
-  - Angular
   - Azure
-- 🌍 I'm currently working as a Cloud Engineer Trainee.
+  - AWS
 - 🧡 I love watching anime, 🏋🏽‍♂️ training, 🎮 playing videogames, 🎵 listening to music and 📖 reading mangas & books.
 - 💡 Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="mailto:kev.mpr03@gmail.com">kev.mpr03@gmail.com</a>
 - 💻 Check out my portfolio: <a href="https://kevmpr.github.io/portfolio">Portfolio</a>
+
+## Certifications
+- AZ-104: Microsoft Azure Administrator Associate
+- AZ-900: Microsoft Azure Fundamentals
+- DP-900: Microsoft Azure Data Fundamentals
+- (In progress) AWS Cloud Foundations
 
 ## My Skills Include
 
