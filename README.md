@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi , I'm Kevin Maximiliano Palma Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center"><b>☁️ Cloud Azure Platform | Advanced Software Development Student</b></h2>
+<h2 align="center"><b>☁️ Cloud Azure Platform | Higher Technician Software Development</b></h2>
 <!--  -->
 <img align="right" width=300px alt="Luffy Gear 5" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
 
 <img src="https://media.tenor.com/z5_M1QreKEcAAAAi/gon-gon-laughing.gif" width="30px" alt="Gon laughing">&nbsp;***About me***
 
-I'm currently developing my career in the Cloud field as a Cloud Azure Platform, while also studying to become an Advanced Software Developer. My main focus is on Cloud Engineering and the design, deployment, and administration of cloud solutions—supported by a growing foundation in both Back-End and Front-End development.<br>
+I'm currently developing my career in the Cloud field as a Cloud Azure Platform, while also building on my background as a Higher Technician in Software Development. My main focus is on Cloud Engineering and the design, deployment, and administration of cloud solutions—supported by a growing foundation in both Back-End and Front-End development.<br>
 I'm passionate about solving problems, collaborating effectively in teams, applying best practices, and learning from every challenge that pushes me to grow.
 
 - 🌱 I’m currently learning ...
