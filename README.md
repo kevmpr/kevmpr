@@ -20,7 +20,6 @@ I'm passionate about solving problems, collaborating effectively in teams, apply
 - AZ-104: Microsoft Azure Administrator Associate
 - AZ-900: Microsoft Azure Fundamentals
 - DP-900: Microsoft Azure Data Fundamentals
-- (In progress) AWS Cloud Foundations
 
 ## My Skills Include
 
