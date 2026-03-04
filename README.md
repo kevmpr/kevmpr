@@ -12,7 +12,7 @@ I'm passionate about solving problems, collaborating effectively in teams, apply
   - Azure
 - 🧡 I love watching anime, 🏋🏽‍♂️ training, 🎮 playing videogames, 🎵 listening to music and 📖 reading mangas & books.
 - 💡 Ask me about anything, I am happy to help<br>
-- 📫 Reach out to me at: <a href="mailto:kev.mpr03@gmail.com">kev.mpr03@gmail.com</a>
+- 📫 Reach out to me at: <a href="mailto:kev.mpr03@gmail.com">kev.mpr03@outlook.com</a>
 - 💻 Check out my portfolio: <a href="https://kevin-m-palma-r.vercel.app/en">Portfolio</a>
 
 ## Certifications
