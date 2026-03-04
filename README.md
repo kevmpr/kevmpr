@@ -13,7 +13,7 @@ I'm passionate about solving problems, collaborating effectively in teams, apply
 - 🧡 I love watching anime, 🏋🏽‍♂️ training, 🎮 playing videogames, 🎵 listening to music and 📖 reading mangas & books.
 - 💡 Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="mailto:kev.mpr03@gmail.com">kev.mpr03@gmail.com</a>
-- 💻 Check out my portfolio: <a href="https://kevmpr.netlify.app/#/portfolio/home">(Old) Portfolio</a>
+- 💻 Check out my portfolio: <a href="https://kevin-m-palma-r.vercel.app/en">Portfolio</a>
 
 ## Certifications
 - AZ-700: Microsoft Azure Network Engineer
